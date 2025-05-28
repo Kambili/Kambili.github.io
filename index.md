@@ -7,7 +7,7 @@ motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
 
 quick_facts:
   - "🎓 Sophomore, Computer Science @ Huston Tillotson University"
-  - "🔬 Research: Smart AI-Based Waste Bin Monitoring and Collection Optimization on Morgan State University Campus"
+  - "🔬 Research: Smart AI-Based Waste Bin Monitoring and Collection Optimization on   Morgan State University Campus"
   - "📍 Based in Austin, TX"
   - "🚀 Passionate about building smart systems for real-world impact"
 
