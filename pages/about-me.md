@@ -4,21 +4,21 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Kambili Nwankwo
+  role: Sophomore, Computer Science Major at Huston Tillptson University
   image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  linkedin: http://www.linkedin.com/in/kambili-nwankwo-0a6445260/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a sophomore studying Computer Science at Histon Tillotson University in Austin, Texas. I expect to graduate in 2028.
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy mentoring younger students, playing chess and reading articles on Wiki, I also like to watch crime drama series on streaming services .
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
+    - icon: ⚽
+      title: Playing Soccer/FIFA
+      description: I’ve been playing soccer since elementary school andalso love playing fifa games on console such as the popular PS5.
     - icon: 🤖
       title: Raspberry Pi Projects
       description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
