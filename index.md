@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Austin, TX"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/kambili-nwankwo-0a6445260/
+linkedin: http://www.linkedin.com/in/kambili-nwankwo-0a6445260/
 image: assets/images/image professional edited.jpg
 ---
