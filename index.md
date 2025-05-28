@@ -6,11 +6,11 @@ description: CEAMLS SAIRI Summer 2025 Research Website
 motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
+  - "🎓 Sophomore, Computer Science @ Huston Tillotson University"
+  - "🔬 Research: Smart AI-Based Waste Bin Monitoring and Collection Optimization on Morgan State University Campus"
+  - "📍 Based in Austin, TX"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/kambili-nwankwo-0a6445260/
 image: assets/images/image professional edited.jpg
 ---
