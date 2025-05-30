@@ -4,24 +4,24 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: Civil Engineering and Machine Learning
-project_title: "Smart AI-Based Waste Bin Monitoring and Collection Optimization on Morgan
-State University Campus"
+project_title: "Smart AI-Based Waste Bin Monitoring and Collection Optimization on Morgan State University Campus"
 
 problem: |
   This project addresses the pressing issue of inefficient waste collection systems, which often lead to
-overflowing bins, sanitation challenges, and environmental degradation. The primary objective is to
-develop a smart, AI-powered waste bin monitoring system tailored to the Morgan State University
-campus. By integrating computer vision, predictive modeling, and reinforcement learning, this project
-will optimize waste collection routes and schedules. This solution will foster sustainability, reduce
-operational costs, and improve campus cleanliness.
+  overflowing bins, sanitation challenges, and environmental degradation. The primary objective is to
+  develop a smart, AI-powered waste bin monitoring system tailored to the Morgan State University
+  campus. By integrating computer vision, predictive modeling, and reinforcement learning, this project
+  will optimize waste collection routes and schedules. This solution will foster sustainability, reduce
+  operational costs, and improve campus cleanliness.
 
 approach: |
   We will apply object detection models such as YOLO (You Only Look Once) to detect bin fill levels
-through images from IoT camera sensors. LSTM (Long Short-Term Memory) networks will analyze
-time-series data on waste accumulation to forecast future trends. Reinforcement learning (using PPO
-or DQN) will be implemented to develop an optimized decision-making agent for collection scheduling.
-This combination of models allows for accurate bin-level monitoring, dynamic forecasting, and adaptive
-routing.
+  through images from IoT camera sensors. LSTM (Long Short-Term Memory) networks will analyze
+  time-series data on waste accumulation to forecast future trends. Reinforcement learning (using PPO
+  or DQN) will be implemented to develop an optimized decision-making agent for collection scheduling.
+  This combination of models allows for accurate bin-level monitoring, dynamic forecasting, and adaptive
+  routing.
+
 outcome: |
   A trained YOLO model for real-time waste level detection.
   An LSTM-based model for predicting bin overflow.
