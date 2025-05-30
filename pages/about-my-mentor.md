@@ -18,8 +18,8 @@ graduate_mentor:
     Whether you are looking for innovative solutions to complex infrastructure challenges, seeking to partner on groundbreaking research,   or interested in mentorship programs that promote diversity in STEM, I’m always open to connecting and exploring synergies.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name: Dr. Oluwafemi Ifesanmi
+  title: Graduate Research Assistant, Morgan State University
   image: /assets/images/oluwa.jpg
   website: http://www.linkedin.com/in/oluwafemi-ifesanmi/
   bio: |
