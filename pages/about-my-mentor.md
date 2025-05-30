@@ -10,7 +10,6 @@ graduate_mentor:
   website: http://www.linkedin.com/in/drsteveefe/overlay/photo/
   bio: |
     Driven by a passion for leveraging cutting-edge technologies to solve real-world engineering challenges, I am a civil engineering professor and AI-certified scientist with over 15 years of experience in research, teaching, and infrastructure innovation. My expertise spans smart infrastructure design, transportation systems, and sustainable urban development, with a focus on applying AI, machine learning, and advanced materials to enhance the resilience and longevity of infrastructure systems.
-
 I have successfully led and collaborated on multiple nationally funded research projects, securing over $2 million in grants from prestigious organizations like the National Science Foundation (NSF), the Department of Energy (DOE), and the Department of Transportation (DOT). My current work includes pioneering efforts to develop hybrid biomimetic adhesives for aging infrastructures and implementing AI-driven strategies to optimize infrastructure sustainability.
 
 Beyond research, I am deeply committed to mentoring the next generation of engineers. I have created inclusive mentoring programs for underrepresented students, guiding them to excel in STEM disciplines and pursue leadership roles in engineering and technology. I also collaborate with industry leaders and academic institutions to design forward-thinking engineering curricula that integrate emerging technologies and real-world problem-solving.
