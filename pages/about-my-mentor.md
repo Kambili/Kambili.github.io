@@ -6,8 +6,8 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Steve Efe
   title: PhD, Civil Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://www.linkedin.com/in/drsteveefe/overlay/photo/
+  image: /assets/images/steve efe.jpg
+  website: http://www.linkedin.com/in/drsteveefe/overlay/photo/
   bio: |
     Driven by a passion for leveraging cutting-edge technologies to solve real-world engineering challenges, I am a civil engineering professor and AI-certified scientist with over 15 years of experience in research, teaching, and infrastructure innovation. My expertise spans smart infrastructure design, transportation systems, and sustainable urban development, with a focus on applying AI, machine learning, and advanced materials to enhance the resilience and longevity of infrastructure systems.
 
@@ -20,8 +20,8 @@ Whether you are looking for innovative solutions to complex infrastructure chall
 faculty_mentor:
   name: Dr. Elijah Freeman
   title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: [https://facultymentor.example.com](https://www.linkedin.com/in/oluwafemi-ifesanmi/)
+  image: /assets/images/oluwa.jpg
+  website: http://www.linkedin.com/in/oluwafemi-ifesanmi/
   bio: |
     Oluwafemi Ifesanmi is a goal-oriented, diligent, young man with a drive for excellence. He possesses excellent interpersonal skills, pleasant personality, industrious ability and a sound analytical mindset. He is on a path to building a career which reflects his passion while he makes contribution to the development of any organization he finds himself. 
 
