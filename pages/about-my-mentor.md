@@ -4,6 +4,14 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
+  name: Dr. Oluwafemi Ifesanmi
+  title: Graduate Research Assistant, Morgan State University
+  image: /assets/images/oluwa.jpg
+  website: http://www.linkedin.com/in/oluwafemi-ifesanmi/
+  bio: |
+    Oluwafemi Ifesanmi is a goal-oriented, diligent, young man with a drive for excellence. He possesses excellent interpersonal skills,     pleasant personality, industrious ability and a sound analytical mindset. He is on a path to building a career which reflects his          passion while he makes contribution to the development of any organization he finds himself.
+    
+faculty_mentor:
   name: Steve Efe
   title: PhD, Civil Engineering
   image: /assets/images/steve efe.jpg
@@ -16,14 +24,6 @@ graduate_mentor:
     Beyond research, I am deeply committed to mentoring the next generation of engineers. I have created inclusive mentoring programs for   underrepresented students, guiding them to excel in STEM disciplines and pursue leadership roles in engineering and technology. I also     collaborate with industry leaders and academic institutions to design forward-thinking engineering curricula that integrate emerging       technologies and real-world problem-solving.
 
     Whether you are looking for innovative solutions to complex infrastructure challenges, seeking to partner on groundbreaking research,   or interested in mentorship programs that promote diversity in STEM, I’m always open to connecting and exploring synergies.
-
-faculty_mentor:
-  name: Dr. Oluwafemi Ifesanmi
-  title: Graduate Research Assistant, Morgan State University
-  image: /assets/images/oluwa.jpg
-  website: http://www.linkedin.com/in/oluwafemi-ifesanmi/
-  bio: |
-    Oluwafemi Ifesanmi is a goal-oriented, diligent, young man with a drive for excellence. He possesses excellent interpersonal skills,     pleasant personality, industrious ability and a sound analytical mindset. He is on a path to building a career which reflects his          passion while he makes contribution to the development of any organization he finds himself. 
 
     Oluwafemi has fervent passion for leveraging technology to drive innovation, where he brings unique blend of technical expertise and     strategic insight to every project. His experience in software development, project management, and IT controls has equipped him with      the skills to navigate complex challenges and deliver exceptional results.
 
