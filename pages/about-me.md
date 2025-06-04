@@ -19,12 +19,12 @@ about:
     - icon: ⚽
       title: Playing Soccer/FIFA
       description: I’ve been playing soccer since elementary school andalso love playing fifa games on console such as the popular PS5.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🎤
+      title: Karaoke
+      description: I love karaoke and singing along with friends. It creates beatiful memories for me.
+    - icon: 🎥🎥
+      title: Cinema
+      description: I love 
 
   gallery:
     - image: /assets/images/me-guitar.png
