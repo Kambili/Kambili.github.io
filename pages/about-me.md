@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Kambili Nwankwo
   role: Sophomore, Computer Science Major at Huston Tillptson University
-  image: /assets/images/me.jpg
+  image: assets/images/image professional edited.jpg
   linkedin: http://www.linkedin.com/in/kambili-nwankwo-0a6445260/
   bio: |
     I’m currently a sophomore studying Computer Science at Histon Tillotson University in Austin, Texas. I expect to graduate in 2028.
