@@ -29,10 +29,8 @@ about:
   gallery:
     - image: assets/images/IMG_20240804_101803.jpg
       caption: Me and my bros !!!
-    - image: /assets/images/me-basketball.png
+    - image: assets/images/IMG_20240315_155355.jpg
       caption: Me young 
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/20250603_163117.jpg
+      caption: Me and the group project members
 ---
