@@ -4,7 +4,7 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Dr. Oluwafemi Ifesanmi
+  name: Mr. Oluwafemi Ifesanmi
   title: Graduate Research Assistant, Morgan State University
   image: /assets/images/oluwa.jpg
   website: http://www.linkedin.com/in/oluwafemi-ifesanmi/
@@ -13,7 +13,7 @@ graduate_mentor:
     Whether you are looking for innovative solutions to complex infrastructure challenges, seeking to partner on groundbreaking research,    or interested in mentorship programs that promote diversity in STEM, I’m always open to connecting and exploring synergies.
       
 faculty_mentor:
-  name: Steve Efe
+  name:Dr. Steve Efe
   title: PhD, Civil Engineering
   image: /assets/images/steve efe.jpg
   website: http://www.linkedin.com/in/drsteveefe
