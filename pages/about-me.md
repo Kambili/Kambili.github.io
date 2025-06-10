@@ -24,13 +24,13 @@ about:
       description: I love karaoke and singing along with friends. It creates beatiful memories for me.
     - icon: 🎥🎥
       title: Cinema
-      description: I love 
+      description: I love watching series, drama, mixed with action and light comedy. One of my best shows of all time is Breaking Bad
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+    - image: assets/images/IMG_20240804_101803.jpg
+      caption: Me and my bros !!!
     - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
+      caption: Me young 
     - image: /assets/images/me.jpg
       caption: My favorite portrait of myself :)
     - image: /assets/images/me-pi.png
